@@ -18,7 +18,7 @@ game.prototype.start = function(){
   */
 }
 
-game.prototype.stop = function(){
+game.prototype.pause = function(){
   /*
   code here
   */
